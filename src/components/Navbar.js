@@ -24,8 +24,9 @@ const nav = useNavigate();
           src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_agile_project_management.jpg"
           alt="LoanAI"
           className="bi"
-          width={110}
+          width={90}
           height={55}
+          class="rounded-circle"
           
           aria-label="Bootstrap"
         />
