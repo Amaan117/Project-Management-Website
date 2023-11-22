@@ -1,0 +1,28 @@
+.backgrad{
+    background-image: linear-gradient( 109.6deg, rgb(175, 220, 245) 11.2%, rgb(248, 246, 247) 91.1% );
+
+}
+body{
+    color: black !important;
+    
+}
+header img{
+    margin-left: 25px;
+}
+header h2{
+    margin-top: 6px;
+}
+button a{
+    font-style: None;
+}
+.stepper .line {
+    width: 2px;
+    background-color: lightgrey !important;
+  }
+  
+  .stepper .lead {
+    font-size: 1.1rem;
+  }
+.tgap{
+    margin-left: 25px;
+}
